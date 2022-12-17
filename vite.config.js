@@ -20,4 +20,4 @@ export default defineConfig({
     ],
 });
 
-mix.js('resources/js/bc-manage/create-edit.js', 'public/js/bc-manage/create-edit.js');
+mix.js('resources/js/category/list.js', 'public/js/category/list.js');
